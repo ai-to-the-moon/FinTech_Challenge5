@@ -27,10 +27,10 @@ The Free Crypto API is used to pull the current values of Bitcoin and Ethereum a
 MCForecastTools.py is a python file that's used for the Monte Carlo Simulation calculations. 
 
 Example Histogram
-![Histogram](Images/5-4-monte-carlo-histogram.PNG)
+![Histogram](Images/5-4-monte-carlo-histogram.png)
 
 Example Line Plot
-![Line Plot](Images/5-4-monte-carlo-line-plot.PNG)
+![Line Plot](Images/5-4-monte-carlo-line-plot.png)
 
 ## Contributors
 
